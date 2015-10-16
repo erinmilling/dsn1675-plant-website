@@ -14,3 +14,20 @@ html {
 
  body{ 
  	margin: 0;
+
+ }
+
+ header{
+ 	background-color: grey;
+
+ }
+ h1{
+ 	text-align: center;
+
+ }
+ li{
+ 	list-style-type: none;
+ 	display: inline-block;
+ 	text-align: center;
+ 	padding: 0 1em 0 1em;
+ }
