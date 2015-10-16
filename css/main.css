@@ -21,8 +21,10 @@ html {
  	background-color: grey;
 
  }
+
  h1{
  	text-align: center;
+ 	margin: 0;
 
  }
  li{
@@ -30,4 +32,10 @@ html {
  	display: inline-block;
  	text-align: center;
  	padding: 0 1em 0 1em;
+ }
+ ol{
+ 	margin:0;
+ }
+ .venus{
+ 	width: 100%;
  }
