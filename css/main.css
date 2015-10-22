@@ -19,11 +19,14 @@ html {
  }
 
  header{
- 	background-color: grey;
+ 	background-color: lightgrey;
 
  }
+ h3 {
+ 	text-align: center;
+ }
 
- h1{
+ .title{
  	display: block;
  	margin: 0;
  	text-align: center;
