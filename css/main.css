@@ -57,6 +57,14 @@ html {
  }
  nav a{
  	text-decoration: none;
+ 	color: blue;
+ }
+ nav a:active {
+ 	color: white;
+ }
+ nav li:hover{
+ 	font-color: white;
+ 	background-color: blue;
  }
  nav li{
  	list-style-type: none;
