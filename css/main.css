@@ -53,22 +53,32 @@ html {
  }
  nav{
  	display: block;
+ 	padding: 1em;
  
  }
  nav a{
  	text-decoration: none;
- 	color: blue;
+ 	padding: .5em .5em .5em .5em;
+ 
  }
- nav a:active {
+ nav li:active,
+ nav li.current,
+ nav li:focus,
+ nav li:hover,
+ nav a:hover {
  	color: white;
- }
- nav li:hover{
- 	font-color: white;
  	background-color: blue;
  }
  nav li{
  	list-style-type: none;
+ 	padding: .5em;
  }
+a,
+a:link,
+a:visited{
+	color: blue;
+	text-decoration: none;
+}
 
  @media only screen and (min-width: 25em) {
 
