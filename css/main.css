@@ -23,10 +23,12 @@ html {
  }
  h1, h2, h3, ul, ol,
  figure, blockquote{
- 	margin: 0 0 1.5rem 0;
+ 	margin: 0 0 1.5em;
  }
  h1, .giga{
  	font-size: 1.424rem;
+ 	background-color: #E6E7E8;
+ 	text-align: center;
 
  }
  h2, .mega{
@@ -44,6 +46,7 @@ html {
  	margin: 0;
  	text-align: center;
  	font-size: 1rem;
+ 	background-color: #D1D3D4;
 
  }
 
