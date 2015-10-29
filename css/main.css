@@ -58,13 +58,18 @@ html {
  .top{
  	text-align: center;
  	margin: 0;
+ 	padding-top: 1rem;
 
  }
  .lightgrey{
  	background-color: #E6E7E8;
+ 	padding-top: 1.125rem;
  }
  .push-bottom{
  	margin-bottom: 1.125rem;
+ }
+ .push-left{
+ 	margin-left: 1.125rem;
  }
 
  ol{
