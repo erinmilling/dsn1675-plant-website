@@ -44,10 +44,13 @@ html {
  h3, .kilo {
  	text-align: center;
  	font-size: 1.125rem;
- 	ine-height: 1.1250;
+ 	line-height: 1.1250;
 
  }
-
+.milli{
+	font-size: 0.8889rem;
+  	line-height: 1.2656;
+}
  .title{
  	display: block;
  	margin: 0;
@@ -71,6 +74,9 @@ html {
  .push-left{
  	margin-left: 1.125rem;
  }
+ .push-top{
+ 	padding-top: 1.125rem;
+ }
 
  ol{
  	margin:0;
@@ -90,6 +96,9 @@ html {
  	text-decoration: none;
  	padding: .5em .5em .5em .5em;
  
+ }
+ .charac{
+ 	padding-left: .5rem;
  }
  nav li:active,
  nav li.current,
