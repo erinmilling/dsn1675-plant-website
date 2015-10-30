@@ -18,7 +18,7 @@ html {
  }
 
  .grey{
- 	background-color: lightgrey;
+ 	background-color: #A7A9AC;
 
  }
  h1, h2, h3, ul, ol,
@@ -67,6 +67,9 @@ html {
  .lightgrey{
  	background-color: #E6E7E8;
  	padding-top: 1.125rem;
+ }
+ .midgrey{
+ 	background-color: #D1D3D4;
  }
 
 dd{
