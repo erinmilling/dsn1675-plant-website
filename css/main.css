@@ -105,10 +105,7 @@ dd{
  .charac{
  	padding-left: .5rem;
  }
- nav li:active,
- nav li.current,
- nav li:focus,
- nav li:hover,
+
  nav a:hover {
  	color: white;
  	background-color: blue;
