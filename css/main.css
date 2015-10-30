@@ -68,18 +68,7 @@ html {
  	background-color: #E6E7E8;
  	padding-top: 1.125rem;
  }
- .push-bottom{
- 	margin-bottom: 1.125rem;
- }
- .push-left{
- 	margin-left: 1.125rem;
- }
- .push-top{
- 	padding-top: 1.125rem;
- }
- .push-all{
- 	padding: 1.125rem;
- }
+
 dd{
 	margin-left: 0;
 }
